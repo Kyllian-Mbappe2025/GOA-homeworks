@@ -38,3 +38,32 @@
 
 # print(int ("5") + 5)
 
+
+
+
+
+# syntax
+
+# variables = ცვლადი
+
+
+
+wallet = "10 ლარი"
+
+food = "apple"
+
+print(wallet)
+
+print(food)
+
+
+num1 = 10
+
+num2 = 20
+
+print(num1 + num2)
+
+
+# varaible name = ცვლადის სახელი!
+
+# variable value = ცვლადის მნიშვნელობა!
