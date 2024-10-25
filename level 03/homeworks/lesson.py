@@ -1,9 +1,11 @@
-int = 12 + 9
+num1 = 9
+num2 = 25
+print(num1 + num2)
 print("age = 12")
 print("weight = 42")
 print("height = 150")
 print("film = Five night at freddy and Home alone 2")
-print("integral = 4,7,9,12,20,28,30,44,40,5")
+print("integer = 4,7,9,12,20,28,30,44,40,5")
 print("float = 1,9 5,4 17,8 44,1 5,47 9,31 8,7 10,6 6,78 49,2")
 "sandro"
 "12"
