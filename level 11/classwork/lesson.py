@@ -6,4 +6,4 @@ bool2 = 3 != 3 # False
 # ლოგიკური ოპერატორები: and or
 
 print(bool1 and bool2) # False
-print(bool1 or bool2) # True
+print(bool1 or bool2) # True 
