@@ -1,16 +1,4 @@
-number = int(input("Enter the nuumber"))
-if number % 2 == 0:
-       print("it is even")
-else:
-       print("it is not even")
-
-
-age = int(input("Enter your age"))
-if age < 18:
-    print("You are not adult")
-else:
-    print("You are adult")
-
+score = int(input("Enter your score: "))  # Score ცვლადი უნდა განვსაზღვროთ
 
 if score >= 90:
     print("A")
@@ -19,4 +7,4 @@ elif score >= 80:
 elif score >= 70:
     print("C")
 else:
-    print("score is low")              
+    print("Score is low")  # "score is" ზედმეტია, მხოლოდ "Score is low" უნდა დარჩეს            
