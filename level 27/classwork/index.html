@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goa Oriented Academy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        video {
+            width: 80%;
+            max-width: 600px;
+            margin: 20px 0;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Football tourney</h1>
+
+    <!-- პირველი ვიდეო - ავტომატურად ვერ დაიწყება, მაგრამ დადასტურდება კონტროლებით -->
+    <video controls>
+        <source src="The Official FIFA World Cup Qatar 2022™ Theme _ FIFA World Cup 2022 Soundtrack.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <!-- მეორე ვიდეო - იწყებს ავტომატურად დაკვრას და მუტადია -->
+    <video controls autoplay muted>
+        <source src="UEFA EURO 2024™ OFFICIAL INTRO (Music Theme) (1).mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+      <!-- მესამე ვიდეო - იწყებს ავტომატურად დაკვრას და მუტადია -->
+      <video controls autoplay muted>
+        <source src="UEFA Champions League Anthem.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <!--
+        video ტეგის ატრიბუტები:
+        
+controls: აჩენს დაკვრის, პაუზისა და სხვა კონტროლის ღილაკებს.
+autoplay: ვიდეო ავტომატურად იწყებს დაკვრას (ზოგიერთი ბრაუზერი ითიშავს, თუ muted არ არის მითითებული).
+muted: ვიდეო იწყება ჩუმად.
+loop: ვიდეოს განუწყვეტელი დაკვრა.
+width / height: ზომების ხელით განსაზღვრა.
+poster: ვიდეოს წინასწარი გამოსახულება.
+-->
+</body>
+</html>
