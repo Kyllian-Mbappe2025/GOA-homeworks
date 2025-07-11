@@ -1,0 +1,17 @@
+#Russia{
+    text-transform: lowercase;
+    color: crimson;
+    background-color: rgb(0, 98, 255);
+}
+
+#China{
+    text-transform: uppercase;
+    color: white;
+    background-color: orangered;
+}
+
+#Georgia{
+    text-transform: capitalize;
+    color: white;
+    background-color: black;
+}

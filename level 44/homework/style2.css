@@ -1,0 +1,9 @@
+p:hover{
+    font-size: 20px;
+    background-color: purple;
+}
+
+p:active{
+    color: blue;
+    text-decoration: wavy underline red;
+}

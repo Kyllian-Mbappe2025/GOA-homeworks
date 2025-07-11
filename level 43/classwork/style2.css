@@ -1,0 +1,19 @@
+#Hi{
+    text-align: right;
+    text-decoration: underline dotted green;
+}
+
+#People{
+    text-align: center;
+    text-decoration: line-through;
+}
+
+#Football{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#Programing{
+    text-align: right;
+    text-decoration: line-through dotted green;
+}

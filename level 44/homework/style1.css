@@ -1,0 +1,7 @@
+img{
+    width: 230px;
+}
+
+img:hover{
+    width: 500px;
+}

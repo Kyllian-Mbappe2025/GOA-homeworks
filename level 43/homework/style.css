@@ -1,0 +1,49 @@
+#Georgia{
+    text-decoration: line-through dashed;
+    color: red;
+}
+
+#China{
+    text-decoration: line-through dotted;
+    color: aqua;
+}
+
+#Japan{
+    text-decoration: line-through double;
+    color: yellow;
+}
+
+#America{
+    text-decoration: line-through;
+    color: blue;
+}
+
+#Argentina{
+    text-decoration: line-through none;
+    color: orangered;
+}
+
+#Brazil{
+    text-decoration: line-through overline;
+    color: brown;
+}
+
+#Portugal{
+    text-decoration: line-through solid;
+    color: blueviolet;
+}
+
+#Spain{
+    text-decoration: line-through underline;
+    color: hotpink;
+}
+
+#France{
+    text-decoration: line-through wavy;
+    color: green;
+}
+
+#Poland{
+    text-decoration: line-through dashed;
+    color: cornflowerblue;
+}

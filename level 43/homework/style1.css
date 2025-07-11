@@ -1,0 +1,14 @@
+.Brainrot{
+    text-align: right;
+    text-decoration: underline wavy red;
+}
+
+.Phone{
+    text-align: center;
+    text-decoration: underline dashed purple;
+}
+
+.Country{
+    text-align: left;
+    text-decoration: line-through double blue;
+}
