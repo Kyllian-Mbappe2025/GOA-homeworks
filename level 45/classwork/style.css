@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Fjalla+One&family=Lobster&display=swap');
+
+tbody{
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+} 
+
+td,th {
+    background-color: rgba(235, 211, 0, 0.104);
+}
+
+table {
+    border-collapse: collapse;
+    border-bottom: 2px solid #ff006f;
+}
+
+tr:nth-child(even){
+    background-color: rgb(255, 0, 0);
+    color: #000000;
+}
+
+thead {
+    background-color: #ff0000;
+    color: rgb(0, 0, 0);
+}
