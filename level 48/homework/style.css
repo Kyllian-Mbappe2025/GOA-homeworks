@@ -1,0 +1,37 @@
+.fjalla-one-regular{
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+thead{
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+tbody{
+  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+td,th {
+    background-color: rgba(255, 255, 255, 0.306);
+}
+
+table {
+    border-collapse: collapse;
+    border-bottom: 2px solid #00958b;
+}
+
+tr:nth-child(even){
+    background-color: rgb(255, 255, 255);
+    color: #018982;
+}
+
+thead{
+    background-color: #00838d;
+    color: rgb(255, 248, 248);
+}
