@@ -1,0 +1,8 @@
+ol{
+    list-style-type: upper-roman;
+}
+
+ul{
+    list-style-image: url("./images\ \(19\).jpg");
+    margin-left: 456px;
+ }

@@ -10,11 +10,11 @@ tbody{
   font-style: normal;
 } 
 
-td,th {
+td,th{
     background-color: rgba(255, 255, 255, 0.306);
 }
 
-table {
+table{
     border-collapse: collapse;
     border-bottom: 2px solid #00788b;
 }
