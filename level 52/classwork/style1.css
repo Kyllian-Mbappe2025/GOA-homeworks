@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+    background-color: #789211;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.table-title {
+    background-color: #789211;
+    padding: 20px;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: white;
+    border: 3px solid black;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.simple-table {
+    border-collapse: collapse;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border: 3px solid black;
+}
+
+.simple-table td{
+    padding: 12px 15px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.simple-table thead th {
+    background-color: #3498db;
+    color: rgb(0, 0, 0);
+}
+.col-sr{
+    color: #ffffff;
+    background-color: #6fdb03;
+}
+
+
+.col-name{
+    color: rgb(255, 255, 255);
+    background-color: rgb(129, 175, 29);
+}
+
+.col-address{
+    color: rgb(255, 255, 255);
+    background-color: #789211;
+}
+.col-number {
+    background-color: #b73700;
+    color: rgb(255, 255, 255);
+}
+
+.col-country{
+    background-color: #920101;
+    color: white;
+}
