@@ -1,0 +1,8 @@
+.Phone{
+  width: 500px;
+  height: 500px;
+  background-color: lightblue; 
+  border: 5px solid darkblue;
+  padding: 20px;
+  margin: 50px;
+}

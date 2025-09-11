@@ -1,0 +1,21 @@
+img{
+    width: 456px;
+    height: 230px;
+}
+
+h1{
+    color: rgb(240, 115, 217);
+}
+
+h2{
+    color: rgb(0, 235, 196);
+}
+
+body{
+    background-color: black;
+}
+
+button{
+    color: blue;
+    background-color: orangered;
+}

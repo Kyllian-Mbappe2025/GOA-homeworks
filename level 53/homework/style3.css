@@ -1,0 +1,24 @@
+img{
+    width: 456px;
+    height: 230px;
+}
+
+h1{
+    color: rgb(240, 115, 217);
+}
+
+h2{
+    color: red;
+}
+
+body{
+    background-color: black;
+}
+
+button{
+    background-color: rgb(68, 149, 255);
+}
+
+a{
+    color: rgb(255, 0, 0);
+}
