@@ -1,0 +1,28 @@
+.parent {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  height: 200px;
+  border: 2px solid rgb(255, 136, 0);
+  background-color: rgb(0, 0, 0);
+  padding: 10px;
+}
+
+.child{
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(255, 136, 0);
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.small{
+  font-size: 14px;
+}
+
+.medium{
+  font-size: 24px;
+}
+
+.big{
+  font-size: 40px;
+}
