@@ -1,0 +1,18 @@
+body {
+    height: 300vh; 
+    margin: 0;
+    background: linear-gradient(to bottom, #f0f0f0, #c0c0c0);
+}
+
+.sticky-box {
+    width: 200px;
+    height: 100px;
+    background-color: lightgreen;
+    border: 2px solid green;
+    position: sticky;
+    top: 300px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+}

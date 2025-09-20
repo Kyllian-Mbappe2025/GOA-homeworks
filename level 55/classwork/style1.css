@@ -1,0 +1,15 @@
+body{
+    position: relative;
+    height: 100vh;
+    margin: 0;
+}
+
+.Spain{
+    width: 150px;
+    height: 100px;
+    background-color: lightcoral;
+    border: 2px solid red;
+    position: absolute;
+    left: 70px;
+    bottom: 40px;
+}
